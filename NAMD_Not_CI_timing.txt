@@ -1,0 +1,12 @@
+Info: Benchmark time: 1680 CPUs 0.0139451 s/step 0.161402 days/ns 2646.5 MB memory
+Info: Benchmark time: 1680 CPUs 0.0132578 s/step 0.153447 days/ns 2647.12 MB memory
+Info: Benchmark time: 1680 CPUs 0.0152342 s/step 0.176321 days/ns 2647.12 MB memory
+Info: Benchmark time: 1680 CPUs 0.015763 s/step 0.182442 days/ns 2647.12 MB memory
+Info: Benchmark time: 1680 CPUs 0.0125186 s/step 0.144891 days/ns 2647.12 MB memory
+Info: Benchmark time: 1680 CPUs 0.0133773 s/step 0.15483 days/ns 2651.25 MB memory
+Info: Benchmark time: 1680 CPUs 0.0211526 s/step 0.244822 days/ns 2744.81 MB memory
+Info: Benchmark time: 1680 CPUs 0.018253 s/step 0.211262 days/ns 2745.75 MB memory
+Info: Benchmark time: 1680 CPUs 0.0195277 s/step 0.226015 days/ns 2745.75 MB memory
+Info: Benchmark time: 1680 CPUs 0.0170095 s/step 0.196869 days/ns 2745.81 MB memory
+Info: Benchmark time: 1680 CPUs 0.0163508 s/step 0.189245 days/ns 2745.81 MB memory
+Info: Benchmark time: 1680 CPUs 0.0169488 s/step 0.196166 days/ns 2749.94 MB memory

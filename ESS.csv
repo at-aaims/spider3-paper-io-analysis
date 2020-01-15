@@ -1,0 +1,5 @@
+"IO_Pattern", "IO_Mode", "Bandwidth"
+Random, Read, 23.988
+Random, Write, 30.628
+Sequential, Read, 38.000
+Sequential, Write, 33.785

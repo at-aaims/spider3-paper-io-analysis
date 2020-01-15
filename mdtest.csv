@@ -1,0 +1,9 @@
+# done on a single (1a)
+# mdtest -n 90000 -w 32768 -F -u -C -r -i 3 -p 360 -y -u 
+#          /gpfs/alpine1a/stf002/scratch/leverman/alpine_acceptance/56111_md_test
+
+mode, operation, value
+unique_dir, file create, 43949 
+unique_dir, file removal, 86730
+
+

@@ -1,0 +1,7 @@
+
+
+quad, pattern, io , bw
+1, fpp_random, read, 311847.98 
+1, fpp_random, write, 248117.45
+2, fpp_random, read,  304551.37
+2, fpp_random, write, 246286.45 

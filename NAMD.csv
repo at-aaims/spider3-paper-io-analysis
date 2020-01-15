@@ -1,0 +1,4 @@
+# NAMD, 176 SMP, 40 nodes
+Runtime,Mode
+64.363106, Isolated
+40.887714, Not-Isolated 
